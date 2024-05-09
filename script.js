@@ -134,3 +134,29 @@
 
 
 
+
+
+
+
+// let a = new Map([[5, 10], [40, 60]])
+
+// console.log(a.get(40))
+
+// a.set(5, 123)
+// console.log(a.get(5))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
