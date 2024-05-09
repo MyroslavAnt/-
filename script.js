@@ -254,3 +254,26 @@
 
 
 
+
+// var str = "Привіт";
+
+// var letters = str.split("");
+
+// console.log(letters);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
