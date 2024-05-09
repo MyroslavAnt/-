@@ -194,3 +194,25 @@
 
 
 
+// function multiplyAfterDelay(a, b) {
+//     setTimeout(function() {
+//         console.log(a * b);
+//     }, 10000);
+// }
+
+// multiplyAfterDelay(5, 10);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
