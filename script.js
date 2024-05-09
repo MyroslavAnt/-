@@ -160,22 +160,37 @@
 
 
 
-let myMap = new Map([
-    ["ключ1', 'значення1"],
-    ["ключ2', 'значення2"],
-    ["ключ3', 'значення3"]
-  ]);
+// let myMap = new Map([
+//     ["ключ1', 'значення1"],
+//     ["ключ2', 'значення2"],
+//     ["ключ3', 'значення3"]
+//   ]);
   
-  console.log("Початковий Map");
-  console.log(myMap);
+//   console.log("Початковий Map");
+//   console.log(myMap);
   
-  myMap.delete('ключ1');
-  myMap.delete('ключ2');
+//   myMap.delete('ключ1');
+//   myMap.delete('ключ2');
   
-  console.log("Map з видаленям");
-  console.log(myMap);
+//   console.log("Map з видаленям");
+//   console.log(myMap);
   
-  myMap.set("ключ3", "нове значення");
+//   myMap.set("ключ3", "нове значення");
   
-  console.log("Map після зміни значення через ключ");
-  console.log(myMap);
+//   console.log("Map після зміни значення через ключ");
+//   console.log(myMap);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
