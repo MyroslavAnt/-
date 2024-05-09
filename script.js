@@ -225,3 +225,30 @@
 
 
 
+// let numbers = [];
+
+// for (let i = 100; i <= 200; i++) {
+//     numbers.push(i);
+// }
+
+// console.log(numbers);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
