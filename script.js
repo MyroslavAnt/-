@@ -260,17 +260,3 @@
 // var letters = str.split("");
 
 // console.log(letters);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
