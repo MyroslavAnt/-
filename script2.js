@@ -217,3 +217,77 @@
 
 
 
+// //Створити базовий клас в якому метод буде виводити повідомлення. Створити клас наслідник в якому метод буде викликати метод базового класа.
+// class ClassClass {
+//     showMessage() {
+//         console.log("Hi MrAnt, on your YouTube 1 million Subscribers");
+//     }
+// }
+// class ClassCl extends ClassClass {
+//     callBaseMethod() {
+//         this.showMessage();
+//     }
+// }
+// let mySubObject = new ClassCl();
+// mySubObject.callBaseMethod();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //Створити клас в якому метод буде приймати 2 параметра строки. Метод буде виводити мінімальну по длинні строку
+// class StringHandler{
+//     printShortestString(str1, str2) {
+//         if (str1.length < str2.length) {
+//             console.log("Мінімальна строка:", str1);
+//         } else if (str2.length < str1.length) {
+//             console.log("Мінімальна строка:", str2);
+//         } else {
+//             console.log("Строки мають однакову довжину.");
+//         }
+//     }
+// }
+// let handler = new StringHandler();
+// handler.printShortestString("JavaScript", "Python");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
