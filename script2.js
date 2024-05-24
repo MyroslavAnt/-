@@ -152,3 +152,68 @@
 
 
 
+// //Створити обєкт в якому метод буде виводити масив через 5 секунд
+// let Unit = {
+//     printArrayAfterDelay: function(array) {
+//         setTimeout(function() {
+//             console.log("Binola", array);
+//         }, 5000);
+//     }
+// };
+// let myArray = [1, 2, 3, 4, 5];
+// Unit.printArrayAfterDelay(myArray);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //Створити множенство 2 значення додати а 2 значення видалити
+// let a = new Set([1,2,3,4,5])
+// a.add(20)
+// a.add(40)
+// a.delete(1)
+// a.delete(2)
+
+// console.log(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
