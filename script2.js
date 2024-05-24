@@ -291,8 +291,14 @@
 
 
 
-//Створити клас в якому метод буде виводити 5 разів ваше імя через кожні 5 секунд
-class A{
-    A = "MrAnt"
-    
-}
+// //Створити клас в якому метод буде виводити 5 разів ваше імя через кожні 5 секунд
+// let printer = new NamePrinter();
+// printer.printName();
+// let myFiled = [];
+// myFiled.unshift("1red");
+// myFiled.unshift("2sed");
+// myFiled.push("timedert");
+// myFiled.push("liodid");
+// myFiled[0] = "new hip";
+// myFiled[myArray.length - 1] = "New job";
+// console.log(myFiled);
