@@ -127,3 +127,40 @@
 
 
 
+// //Створити метод в класі який приймає 2 параметра строки. Метод буде виводити найкоротшу серед параметрів
+// class A{
+//     checkMinLen(a,b){
+//         if(a.length < b.length){
+//             console.log(a)
+//         }
+//         else{
+//             console.log(b)
+//         }
+//     }
+// }
+// let m = new A()
+// m.checkMinLen("Hello", "World")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
