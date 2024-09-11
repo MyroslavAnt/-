@@ -83,3 +83,41 @@
 
 
 
+// let youtubeant = 10
+// if (youtubeant > 50) {
+//     console.log("Велике число")
+// }
+// else if (youtubeant < 50) {
+//     console.log("Мале число")
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
