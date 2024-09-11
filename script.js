@@ -589,8 +589,8 @@
 
 
 
-function DratutuX(HHHggg){
-    console.log(HHHggg[0])
-    console.log(HHHggg[1])
-}
-DratutuX("MrAntPro")
+// function ChatGPTPlus(HHHggg){
+//     console.log(HHHggg[0])
+//     console.log(HHHggg[1])
+// }
+// ChatGPTPlus("MrAntPro")
