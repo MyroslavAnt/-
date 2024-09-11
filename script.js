@@ -254,8 +254,188 @@
 
 
 
-function MrAntPro(){
-    mirosantpro = "ant"
-    console.log(mirosantpro)
-}
-MrAntPro()
+// function MrAntPro(){
+//     mirosantpro = "ant"
+//     console.log(mirosantpro)
+// }
+// MrAntPro()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function mrproant(mrproantpro, mrproantproo, mrproantprooo, mrproantproooo, mrproantprooooo){
+//     console.log(mrproantpro + mrproantproo + mrproantprooo + mrproantproooo + mrproantprooooo)
+// }
+// mrproant(1,2,3,4,5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function didmadrid(){
+//     return "MirosAnt"
+// }
+// console.log(didmadrid())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function GgGgGg(hhhhhhhh){
+//     if (hhhhhhhh > 18) {
+//         return "Доросла людина"
+//     }
+//     else if (hhhhhhhh < 18){
+//         return "Мала людина🤣"
+//     }
+// }
+
+// console.log(GgGgGg(14))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
