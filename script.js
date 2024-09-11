@@ -439,3 +439,158 @@
 
 
 
+// let Dratytu = [1,2,3]
+// Dratytu.unshift(2,3)
+// Dratytu.shift()
+// console.log(Dratytu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let DratytuDratytu = [3,3,3]
+// DratytuDratytu.unshift(3,3)
+// DratytuDratytu.push(2,2)
+// console.log(DratytuDratytu.length)
+// console.log(DratytuDratytu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function DratutuX(HHHggg){
+    console.log(HHHggg[0])
+    console.log(HHHggg[1])
+}
+DratutuX("MrAntPro")
