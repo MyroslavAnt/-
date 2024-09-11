@@ -121,3 +121,136 @@
 
 
 
+// let youtubemirosant = 15
+// youtubemirosant-=5
+// console.log(youtubemirosant)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// for(let i = 0; i < 10; i++){
+//     console.log(i)
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// for(let mirosantI = 50; mirosantI < 101; mirosantI+=50){
+//         console.log(mirosantI)
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let mirosantyoutube = "Buisness"
+// console.log(typeof mirosantyoutube);
+// console.log(mirosantyoutube.length)
+// console.log(mirosantyoutube[0])
+// console.log(mirosantyoutube)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
