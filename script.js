@@ -46,6 +46,33 @@
 
 
 
+// let youtube = "30"
+//     if (youtube === 10) {
+//         console.log("+")
+//     }
+//     else if(youtube === 20){
+//         console.log("+")
+//     }
+// else if(youtube == 30){
+//     console.log("+")
+// }
+// else{
+//     console.log("-")
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
