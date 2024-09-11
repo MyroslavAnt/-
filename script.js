@@ -254,3 +254,8 @@
 
 
 
+function MrAntPro(){
+    mirosantpro = "ant"
+    console.log(mirosantpro)
+}
+MrAntPro()
