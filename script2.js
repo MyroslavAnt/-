@@ -112,7 +112,6 @@
 // }
 
 // let UAUA = new STALKERR()
-// console.log(UAUA.STALKERRᴾᴿᴼ)
 // UAUA.STALKERRᴾᴿᴼ = "MrPro"
 // console.log(UAUA.STALKERRᴾᴿᴼ)
 
@@ -142,3 +141,58 @@
 
 
 
+// class Dratytu{
+//     static Red = "Let's meet again on Wensday at five o'clock"
+// }
+// console.log(Dratytu.Red)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class Cute{
+    constructor(need, next, nice){
+        this.need = need
+        this.next = next
+        this.nice = nice
+    }
+    NiceData(){
+        console.log(this.need)
+        console.log(this.next)
+        console.log(this.nice)
+    }
+}
+let Appointment = new Cute("Good", "Ugly", "Strict")
+Appointment.NiceData()
