@@ -182,17 +182,18 @@
 
 
 
-class Cute{
-    constructor(need, next, nice){
-        this.need = need
-        this.next = next
-        this.nice = nice
-    }
-    NiceData(){
-        console.log(this.need)
-        console.log(this.next)
-        console.log(this.nice)
-    }
-}
-let Appointment = new Cute("Good", "Ugly", "Strict")
-Appointment.NiceData()
+// class Cute{
+//     constructor(need, next, nice){
+//         this.need = need
+//         this.next = next
+//         this.nice = nice
+//     }
+//     NiceData(){
+//         console.log(this.need)
+//         console.log(this.next)
+//         console.log(this.nice)
+//     }
+// }
+// let Appointment = new Cute("Good", "Ugly", "Strict")
+// Appointment.NiceData()
+// console.log(Appointment.need)
