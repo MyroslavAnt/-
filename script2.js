@@ -197,3 +197,42 @@
 // let Appointment = new Cute("Good", "Ugly", "Strict")
 // Appointment.NiceData()
 // console.log(Appointment.need)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class BoardingPass{
+    CarryOn = "Let's meet again on Wensday at five o'clock"
+}
+class NextDay extends BoardingPass{
+    Duolingo(){
+        console.log(this.CarryOn)
+    }
+}
+let Karaoke = new NextDay()
+Karaoke.Duolingo()
