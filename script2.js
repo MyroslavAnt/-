@@ -226,13 +226,16 @@
 
 
 
-class BoardingPass{
-    CarryOn = "Let's meet again on Wensday at five o'clock"
-}
-class NextDay extends BoardingPass{
-    Duolingo(){
-        console.log(this.CarryOn)
-    }
-}
-let Karaoke = new NextDay()
-Karaoke.Duolingo()
+// class BoardingPass{
+//     CarryOn = "Let's meet again on Wensday is at five o'clock"
+// }
+// class NextDay extends BoardingPass{
+//     Duolingo(){
+//         console.log(this.CarryOn)
+//     }
+// }
+// let Karaoke = new NextDay()
+// Karaoke.Duolingo()
+
+// let Google = new NextDay()
+// Google.Duolingo()
