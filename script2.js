@@ -70,3 +70,75 @@
 
 
 
+// class STALKER{
+//     STALKERᴾᴿᴼ = "STALKER in UA"
+// }
+
+// let UA = new STALKER()
+// console.log(UA.STALKERᴾᴿᴼ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class STALKERR{
+//     STALKERRᴾᴿᴼ = "STALKER in UA"
+// }
+
+// let UAUA = new STALKERR()
+// console.log(UAUA.STALKERRᴾᴿᴼ)
+// UAUA.STALKERRᴾᴿᴼ = "MrPro"
+// console.log(UAUA.STALKERRᴾᴿᴼ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
