@@ -227,7 +227,7 @@
 
 
 // class BoardingPass{
-//     CarryOn = "Let's meet again on Wensday is at five o'clock"
+//     CarryOn = "Let's meet again on Wensday at five o'clock"
 // }
 // class NextDay extends BoardingPass{
 //     Duolingo(){
@@ -239,3 +239,91 @@
 
 // let Google = new NextDay()
 // Google.Duolingo()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Unit{
+//     MirosAnt = "MrAntPro"
+// }
+// class JJJJJ extends Unit{
+//     JJJ(){
+//         console.log(this.MirosAnt[0])
+//         console.log(this.MirosAnt.length)
+//         console.log(typeof(typeof(this.MirosAnt)))
+//     }
+// }
+
+
+// let NiceNice = new JJJJJ()
+// NiceNice.JJJ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Apple{
+//     #SpaceX = 10
+//     GoodNight(){
+//         console.log(this.#SpaceX/2)
+//     }
+// }
+// let billion = new Apple()
+// billion.GoodNight()
