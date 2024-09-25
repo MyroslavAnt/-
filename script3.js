@@ -114,13 +114,104 @@
 
 
 
-let value = "123abc"; 
-try {
-  let number = Number(value); 
-  if (isNaN(number)) {
-    throw new Error("-");
-  }
-  console.log("Число:", number);
-} catch (error) {
-  console.log("Ошибка:", error.message);
-}
+// let value = "123abc"; 
+// try {
+//   let number = Number(value); 
+//   if (isNaN(number)) {
+//     throw new Error("-");
+//   }
+//   console.log("Число:", number);
+// } catch (error) {
+//   console.log("Ошибка:", error.message);
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// for(let mirosantI = 50; mirosantI < 213321876231458716235; mirosantI+=50){
+//         console.log(mirosantI)
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let Join = "Toonight"
+console.log(Join.repeat(5))
