@@ -213,5 +213,160 @@
 
 
 
-let Join = "Toonight"
-console.log(Join.repeat(5))
+// let Join = "Toonight"
+// console.log(Join.repeat(5))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let I = "Hello"
+// console.log(I.includes("Hello"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let Join = "Hello script"
+// console.log(Join.toUpperCase())
+// console.log(Join.toLowerCase())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let Classes = "Transformers ONE "
+// let Transformer = "Transformers 2007"
+// let GoogLuck = Classes.concat(Transformer)
+// console.log(GoogLuck)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
