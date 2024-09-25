@@ -370,3 +370,352 @@
 
 
 
+// let room = "Break room"
+// room = room.replace("room", "rooms")
+// console.log(room)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let u = "Hello World"
+// let Buisness = /W/
+// let I = Buisness.test(u)
+// console.log(I)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let ChatGPT = new Promise(function(resolve, reject){
+//      console.log("ChatGPT")
+// })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const promise1 = new Promise((resolve, reject) => {
+//     setTimeout(resolve, 1000, "Hello");
+// });
+
+// const promise2 = new Promise((resolve, reject) => {
+//     setTimeout(resolve, 500, "World");
+// });
+
+// promise1.then(value => console.log(value));
+// promise2.then(value => console.log(value));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const promise1 = new Promise((resolve,reject) => {
+//     setTimeout(resolve, 1000, "Hello");
+// });
+// const promise2 = new Promise((resolve,reject) => {
+//     setTimeout(resolve, 500, "World");
+// });
+// Promise.all([promise1, promise2])
+//     .then(values => {
+//                 const [promise1data, promise2data] = values;
+//                 console.log(promise1data, promise2data);    // Hello World
+// });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const promise1 = new Promise((resolve,reject) => {
+//     reject("Непредвиденная ошибка");
+//     setTimeout(resolve, 500, "Hello");
+// });
+// const promise2 = new Promise((resolve,reject) => {
+//     setTimeout(resolve, 1000, "World");
+// });
+  
+// Promise.allSettled([promise1, promise2])
+//     .then(values => {
+//         const [promise1data, promise2data] = values;
+//         console.log(promise1data);  // {status: "rejected", reason: "Непредвиденная ошибка"}
+//         console.log(promise2data);  // {status: "fulfilled", value: "World"}
+// });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const promise1 = new Promise((resolve) => {
+//     setTimeout(resolve, 500, "Hello");
+// });
+// const promise2 = new Promise((resolve) => {
+//     setTimeout(resolve, 1000, "World");
+// });
+// Promise.race([promise1, promise2])
+//     .then(value => console.log(value))       // Hello
+//     .catch(error => console.log(error));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var promise9 = new Promise(function(resolve){
+//     setTimeout(resolve, 20000, "15");
+// });
+// promise9.then(function(value){
+//         console.log(value)
+// });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
