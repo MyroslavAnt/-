@@ -102,3 +102,19 @@
 
 
 
+// const express = require("express");
+// const app = express();
+
+// app.get("/products/:productId", function (request, response) {
+//     response.send("productId: " + request.params["productId"]);
+// });
+
+// app.get("/ApLock/:Ikuller/:ApOpen", function (request, response) {
+//     response.send("ApLock: " + request.params["Ikuller"] + " OpenHope " + request.params["ApOpen"]);
+// });
+
+// app.get("/Hello/:Name/:Age/:Hobby", function (request, response) {
+//     response.send("Hello: " + request.params["Name"] + "Тебе" + request.params["Age"] + "Лет" + "Твое хобби" + request.params["Hobby"]);
+// });
+
+// app.listen(3000);
