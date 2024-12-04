@@ -72,17 +72,47 @@
 
 
 
-const http = require("http");
+// const http = require("http");
 
-http.createServer(function(request, response){
-    response.setHeader("Content-Type", "text/html; charset=utf-8;");
-    if(request.url === "/about"){
-        response.write("<h2>Myroslav</h2>");
-    }
-    else if(request.url === "/good"){
-        response.write("<h2>I play the guitar</h2>");
-    }
-    else if(request.url === "/age"){
-        response.write("<h2>14</h2>");
-    }
-}).listen(3000);
+// http.createServer(function(request, response){
+//     response.setHeader("Content-Type", "text/html; charset=utf-8;");
+//     if(request.url === "/about"){
+//         response.write("<h2>Myroslav</h2>");
+//     }
+//     else if(request.url === "/good"){
+//         response.write("<h2>I play the guitar</h2>");
+//     }
+//     else if(request.url === "/age"){
+//         response.write("<h2>14</h2>");
+//     }
+// }).listen(3000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
