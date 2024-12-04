@@ -33,7 +33,7 @@
      
 //     response.send("<h1>Главная страница</h1>");
 // });
-// app.get("/about", function(request, response){
+// app.get("/about/mrant", function(request, response){
      
 //     response.send("<h1>О сайте</h1>");
 // });
