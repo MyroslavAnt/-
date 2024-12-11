@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.21.1",
     "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.0.1"
   }
 }
