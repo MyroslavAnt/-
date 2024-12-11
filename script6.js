@@ -87,3 +87,22 @@
 
 
 
+const express = require("express");
+ 
+const app = express();
+ 
+app.set("view engine", "hbs");
+ 
+app.use("/contact", function(_, response){
+     
+    response.render("contact.hbs", {
+        title: "Мои контакты",
+        email: "myrosllavsh@gmail.com",
+        phone: "+380 (68) 218 62 05"
+    });
+});
+app.use("/", function(_, response){
+     
+    response.send("Главная страница");
+});
+app.listen(3000, console.log("Сервер запущен..."));
