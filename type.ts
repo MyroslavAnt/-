@@ -48,13 +48,77 @@ import { json } from "express/lib/response"
 
 
 
-//Створити клас в якому 2 поля числа Створити метод який буде складати поля Через екземпляр викликати метод
-class Person{
-    name: string = "MirosAnt"
-    age: number = 777
-    MrAntPro(){
-        console.log(this.name, this.age)
-    }
-}
-let a = new Person()
-a.MrAntPro()
+
+// class Person{
+//     name: string = "MirosAnt"
+//     age: number = 777
+//     MrAntPro(){
+//         console.log(this.name, this.age)
+//     }
+// }
+// let a = new Person()
+// a.MrAntPro()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class MirosAnt{
+//     name: string = "MrAntPro"
+//     MrInfoExpert(){
+//         for(let i: number = 0; i < this.name.length; i++){
+//             console.log(this.name[i]);
+//         }
+//         }
+//         Mraaant(){
+//             console.log(this.name.length);
+//         }
+// } 
+// let b = new MirosAnt()
+// b.MrInfoExpert()
+// b.Mraaant();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Roman{
+//     age4: number = 777
+//     age5: number = 333
+//     MrMetod(){
+//         if (this.age4 > this.age5) {
+//             console.log(this.age4)
+//         } 
+//         else(console.log(this.age5))
+//     }
+// }
+// let MrPro = new Roman()
+// MrPro.MrMetod();

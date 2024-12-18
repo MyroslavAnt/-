@@ -13,16 +13,43 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // a[0] = 1
 // a[3] = 5
 // console.log(a)
-//Створити клас в якому 2 поля числа Створити метод який буде складати поля Через екземпляр викликати метод
-var Person = /** @class */ (function () {
-    function Person() {
-        this.name = "MirosAnt";
-        this.age = 777;
+// class Person{
+//     name: string = "MirosAnt"
+//     age: number = 777
+//     MrAntPro(){
+//         console.log(this.name, this.age)
+//     }
+// }
+// let a = new Person()
+// a.MrAntPro()
+// class MirosAnt{
+//     name: string = "MrAntPro"
+//     MrInfoExpert(){
+//         for(let i: number = 0; i < this.name.length; i++){
+//             console.log(this.name[i]);
+//         }
+//         }
+//         Mraaant(){
+//             console.log(this.name.length);
+//         }
+// } 
+// let b = new MirosAnt()
+// b.MrInfoExpert()
+// b.Mraaant();
+//Створити клас в якому 2 поля числа Створити метод який буде максимальне число
+var Roman = /** @class */ (function () {
+    function Roman() {
+        this.age4 = 777;
+        this.age5 = 333;
     }
-    Person.prototype.MrAntPro = function () {
-        console.log(this.name, this.age);
+    Roman.prototype.MrMetod = function () {
+        if (this.age4 > this.age5) {
+            console.log(this.age4);
+        }
+        else
+            (console.log(this.age5));
     };
-    return Person;
+    return Roman;
 }());
-var a = new Person();
-a.MrAntPro();
+var MrPro = new Roman();
+MrPro.MrMetod();
